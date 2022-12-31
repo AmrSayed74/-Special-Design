@@ -388,7 +388,7 @@ img {
     -webkit-backdrop-filter: blur(1.9px);
     left: 10%;
     padding: var(--p1-5);
-    top: -312px;
+    top: -1000%;
     z-index: 100;
     border-radius: 10px;
     transition: var(--transition);
