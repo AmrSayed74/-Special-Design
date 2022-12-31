@@ -18,7 +18,7 @@ HTML, SASS, JS, And Aos Animation Library
 
 
 ## Demo
-* [Live Demo]https://amrsayed74.github.io/Special-Design/
+* [Live Demo](https://amrsayed74.github.io/Special-Design/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
